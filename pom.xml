@@ -32,7 +32,7 @@
 		<alibaba-druid.version>1.1.10</alibaba-druid.version>
 		<redisson.version>2.5.1</redisson.version>
 		<alibaba-fastjson.version>1.2.31</alibaba-fastjson.version>
-		<httpclient.version>4.5.3</httpclient.version>
+		<httpclient.version>4.5.13</httpclient.version>
 		<user-server.version>0.0.4-SNAPSHOT</user-server.version>
 		<common-server.version>0.0.1-SNAPSHOT</common-server.version>
 		<javax.servlet.jsp-api.version>2.3.1</javax.servlet.jsp-api.version>
