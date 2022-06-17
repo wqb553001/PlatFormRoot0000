@@ -31,7 +31,7 @@
 		<activiti-dependencies.version>7.1.0.M6</activiti-dependencies.version>
 		<alibaba-druid.version>1.1.10</alibaba-druid.version>
 		<redisson.version>2.5.1</redisson.version>
-		<alibaba-fastjson.version>1.2.31</alibaba-fastjson.version>
+		<alibaba-fastjson.version>1.2.83</alibaba-fastjson.version>
 		<httpclient.version>4.5.3</httpclient.version>
 		<user-server.version>0.0.4-SNAPSHOT</user-server.version>
 		<common-server.version>0.0.1-SNAPSHOT</common-server.version>
